@@ -1,0 +1,4 @@
+#Thu Feb 28 14:53:52 SGT 2019
+base.0=D\:\\Users\\JTTHAVAKU\\Desktop\\Personal\\Kotlin\\DinnerDecider\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
